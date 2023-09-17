@@ -1,0 +1,14 @@
+.with-mark {
+   color: #0069d9;
+   font-weight: bold;
+   font-size: 15px;
+}
+
+.content-options:hover {
+    background-color: #0069d9;
+  }
+
+.journal {
+    font-size: 13px;
+}
+  
